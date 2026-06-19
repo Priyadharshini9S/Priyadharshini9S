@@ -2,7 +2,7 @@
 
 I am a **Software Engineer, Data Scientist, and PMP-certified Project Manager** who specializes in bridging the gap between deep technical execution and high-impact project delivery. 
 
-With 2+ years of professional engineering experience shipping production-grade systems[cite: 2] combined with rigorous Agile project management methodology[cite: 2], I lead cross-functional technical teams to launch complex architectures on time, every time.
+With 2+ years of professional engineering experience shipping production-grade systems combined with rigorous Agile project management methodology, I lead cross-functional technical teams to launch complex architectures on time, every time.
 
 ---
 
@@ -10,9 +10,9 @@ With 2+ years of professional engineering experience shipping production-grade s
 
 | Domain & Project Governance | Engineering Literacy & Libraries | Infrastructure & MLOps |
 | :--- | :--- | :--- |
-| 📊 Agile (Scrum/Kanban), PMP[cite: 2] | 🐍 Python, SQL, FastAPI, Flask[cite: 2] | ☁️ AWS (EC2, S3, RDS, SageMaker)[cite: 2] |
-| 🗺️ Gantt Charts & Critical-Path[cite: 2] | 📈 Pandas, NumPy, Scikit-learn[cite: 2] | 🐳 Docker, Kubernetes, Terraform[cite: 2] |
-| ⚠️ Risk & Dependency Analysis[cite: 2] | 🤖 LLMs, Prompt Eng, Vector DBs[cite: 2] | 🔄 GitHub Actions, CI/CD Pipelines[cite: 2] |
+| 📊 Agile (Scrum/Kanban), PMP | 🐍 Python, SQL, FastAPI, Flask | ☁️ AWS (EC2, S3, RDS, SageMaker) |
+| 🗺️ Gantt Charts & Critical-Path | 📈 Pandas, NumPy, Scikit-learn | 🐳 Docker, Kubernetes, Terraform |
+| ⚠️ Risk & Dependency Analysis | 🤖 LLMs, Prompt Eng, Vector DBs | 🔄 GitHub Actions, CI/CD Pipelines |
 
 ---
 
