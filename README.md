@@ -6,14 +6,17 @@ With 2+ years of professional engineering experience shipping production-grade s
 
 ---
 
-## 🛠️ Technical & Project Governance Toolkit
-
-| Domain & Project Governance | Engineering Literacy & Libraries | Infrastructure & MLOps |
-| :--- | :--- | :--- |
-| 📊 Agile (Scrum/Kanban), PMP | 🐍 Python, SQL, FastAPI, Flask | ☁️ AWS (EC2, S3, RDS, SageMaker) |
-| 🗺️ Gantt Charts & Critical-Path | 📈 Pandas, NumPy, Scikit-learn | 🐳 Docker, Kubernetes, Terraform |
-| ⚠️ Risk & Dependency Analysis | 🤖 LLMs, Prompt Eng, Vector DBs | 🔄 GitHub Actions, CI/CD Pipelines |
-
+TECHNICAL & PROJECT GOVERNANCE TOOLKIT
+-----------------------------------------------------------------------------------------
+| Domain & Project Governance     | Engineering Literacy          | Cloud, MLOps & CI/CD    |
+|---------------------------------|-------------------------------|-------------------------|
+| • Agile (Scrum/Kanban)       | • Python & SQL            | • AWS (EC2, S3, RDS)  |
+| • PMP® Certified              | • FastAPI & Flask          | • SageMaker           |
+| • Gantt Charts & Timelines    | • Pandas & NumPy           | • Docker & Kubernetes |
+| • Critical-Path Analysis        | • Scikit-learn & ML      | • Terraform & IaC    |
+| • Risk & Dependency Analysis    | • LLMs & Prompt Engineering   | • GitHub Actions        |
+| • Jira & PowerBI         | • Vector DBs (Pinecone)     | • CI/CD Pipelines   |
+-----------------------------------------------------------------------------------------
 ---
 
 ## 🚀 Highlighted Portfolios & Case Studies
