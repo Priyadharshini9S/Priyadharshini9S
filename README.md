@@ -38,4 +38,5 @@ Designed and shipped a production-grade internal analytics application through c
 
 ## 📫 Let's Connect!
 * 💼 **LinkedIn:** https://linkedin.com/in/priyadharshini-s-spd
-* 📍 **Location:** Cuddalore, Tamil Nadu, India[cite: 2]
+* 📧 **Email:** pdharshinis0906@gmail.com
+* 📍 **Location:** Cuddalore, Tamil Nadu, India
