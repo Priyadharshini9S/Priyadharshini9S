@@ -24,19 +24,19 @@ An end-to-end Technical Project Management portfolio simulating an 8-week financ
 * **Technical Architecture:** Mapped out distributed systems logic, handling idempotent event ingestion schemas ($event\_id$), and assessing Merchant of Record (MoR) tax dependency constraints.
 
 ### ⚙️ [Internal Stoppage Analysis Web Application](LINK_IF_APPLICABLE_OR_KEEP_TEXT)
-Designed and shipped a production-grade internal analytics application through continuous Agile sprints and iterative design reviews[cite: 2].
-* **Impact:** Automated complex manual file processing and feature selection arrays into real-time cross-functional reporting dashboards (ROC AUC, MSE, $R^2$)[cite: 2].
+Designed and shipped a production-grade internal analytics application through continuous Agile sprints and iterative design reviews.
+* **Impact:** Automated complex manual file processing and feature selection arrays into real-time cross-functional reporting dashboards (ROC AUC, MSE, $R^2$).
 
 ---
 
 ## 🎓 Credentials & Certifications
-* **Project Management:** Project Management Professional (PMP) — Google | CBRE PM Simulation[cite: 2]
-* **Artificial Intelligence:** MLOps for Generative AI, LLMs, and Responsible AI — Google Cloud[cite: 2]
-* **Cloud Infrastructure:** AWS DevOps — Mithun Software Solutions[cite: 2]
+* **Project Management:** Project Management Professional (PMP) — Google | CBRE PM Simulation
+* **Artificial Intelligence:** MLOps for Generative AI, LLMs, and Responsible AI — Google Cloud
+* **Cloud Infrastructure:** AWS DevOps — Mithun Software Solutions
 
 ---
 
 ## 📫 Let's Connect!
-* 💼 **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile) <!-- Replace with your actual link -->
+* 💼 **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/priyadharshini-s-spd) <!-- Replace with your actual link -->
 * 📧 **Email:** pdharshinis0906@gmail.com[cite: 2]
 * 📍 **Location:** Cuddalore, Tamil Nadu, India[cite: 2]
